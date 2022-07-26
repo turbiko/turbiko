@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python Django
 - 💞️ I’m looking to collaborate on that
 - 📫 How to reach me: sometimes later :)
+
+
 other repositories
 https://bitbucket.org/turbiko/
 
