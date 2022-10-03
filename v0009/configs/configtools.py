@@ -23,7 +23,7 @@ class Config:
     def set_default_config(self):
         # Set default configuration'
         self.config['telegram'] = {}
-        self.config['telegram']['bot_token'] = '1028960189:AAEnGFt1zbWVhGzTnMsznT7OUjgrzU1MjgY'
+        self.config['telegram']['bot_token'] = '102896sfghsfghsfgnsfgnsVhGzTnMsznT7OUjgrzU1MjgY'
         self.config['tg_admins'] = {}
         self.config['tg_admins']['263255207'] = '263255207'
         self.config['tg_admins']['297360613'] = '297360613'
